@@ -1,0 +1,6 @@
+Datos sacados de ODEPA.
+https://datos.odepa.gob.cl/dataset/precios-consumidor
+
+Con el script 1 se genero el archivo canasta_flourish utilizado para generar la visualización en flourish, con el script 2 se hicieron un par de comprobaciones adicionales para fortalecer el informe.
+
+Visualización Flourish: https://public.flourish.studio/visualisation/29373249/
